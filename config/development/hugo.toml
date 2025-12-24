@@ -37,9 +37,9 @@ disableKinds = ["taxonomy", "section"]
   favicon = true
 
 [Params.social]
-  email = "gopinathshreyasi@yahoo.co.in"
+  email = "info@sgda.in"
   instagram = "https://instagram.com/the_dance_atelier"
-  whatsapp = "https://api.whatsapp.com/send?phone=919818689428"
+  whatsapp = "https://api.whatsapp.com/send?phone=919311139148"
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]
